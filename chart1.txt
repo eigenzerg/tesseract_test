@@ -1,0 +1,33 @@
+Chart 1: Price to normalized earnings predictive power on subsequent
+holding period returns (since 1987)
+
+ 
+       
+   
+
+O
+9% Variability of Returns Explained by Price
+80% to Normalized EPS
+70% (R»Squared of Normalized PIE vs.
+60% Subsequent S&P 500 Returns)
+
+50%
+40%
+30%
+20%
+1 0%
+
+0%
+
+R-Squared of Norm. PIE vs‘ Subs. S&P 500
+
+                
+ 
+
+ 
+
+0123456789
+
+Holding period (# of years)
+Sauna BofA Mernll Lynch US Equity & US Quanl Strategy
+
